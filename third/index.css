@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 15vh;
+    background: lightgray;
+    padding-top: 10px;
+}
+
+#square {
+    height: 100px;
+    width: 100px;
+    background-color: #008ae6;
+    margin-left: 20px;
+}
+
+section {
+    height: 25vh;
+    width: 100%;
+    text-align: center;
+    font-size: large;
+}
+
+#one {
+    width: 100%;
+    height: 15vh;
+    background-color: #008ae6;
+}
+
+#two {
+    width: 100%;
+    height: 15vh;
+    background-color:  #66ffcc;
+}
+
+#three {
+    width: 100%;
+    height: 15vh;
+    background-color: #ccff99;
+}
+
+#four {
+    width: 100%;
+    height: 15vh;
+    background-color: yellow;
+}
+
+
